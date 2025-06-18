@@ -40,8 +40,3 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HTILKI&theme=darcula&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak"/>
-</p>
